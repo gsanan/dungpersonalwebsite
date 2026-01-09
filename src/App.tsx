@@ -52,7 +52,7 @@ function App() {
 
             <nav className="flex gap-6 text-lg">
               <a
-                href="https://dungnguyen1804.github.io/dungabout/"
+                href="https://gsanan.github.io/dungabout/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:opacity-70"
@@ -61,7 +61,7 @@ function App() {
                 About
               </a>
               <a
-                href="https://dungnguyen1804.github.io/dungwriting"
+                href="https://gsanan.github.io/dungwriting"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:opacity-70"
