@@ -196,9 +196,12 @@ function App() {
 
         {/* ================= NGÀN ================= */}
         <section className="relative left-1/2 -translate-x-1/2 w-screen">
-          <h2 className="text-3xl mb-8 px-8" style={{ fontFamily: 'The Youngest, serif' }}>
-            NGÀN
-          </h2>
+
+          <a href="https://www.youtube.com/watch?app=desktop&v=2Zzpxmjf4vg" target="_blank" rel="noopener noreferrer">
+            <h2 className="text-3xl mb-8 px-8 underline underline-offset-4 hover:opacity-70" style={{ fontFamily: 'The Youngest, serif' }}>
+              NGÀN
+            </h2>
+          </a>
 
           <div className="w-screen h-screen">
             <img
