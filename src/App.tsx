@@ -219,9 +219,7 @@ function App() {
             <video
               src="https://raw.githubusercontent.com/dungnguyen1804/Portfolio-image/main/Du%CC%83ng.mp4"
               className="w-full h-full object-cover"
-              autoPlay
-              muted
-              loop
+              controls
               playsInline
             />
           </div>
