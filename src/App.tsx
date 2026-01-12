@@ -84,7 +84,15 @@ function App() {
             01 Background
           </h3>
           <p className="text-base leading-relaxed max-w-3xl mb-8" style={{ fontFamily: 'The Youngest, serif' }}>
-            If you want to know a bit more about my background, check out this autobiography.
+            If you want to know a bit more about my background, check out this{" "}
+            <a
+              href="https://gsanan.github.io/dungabout/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-70"
+            >
+              autobiography
+            </a>.
           </p>
           <div className="flex justify-center mb-8">
             <div className="w-96 h-px bg-gray-800"></div>
